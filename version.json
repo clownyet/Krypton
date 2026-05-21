@@ -1,8 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "roblox_version": "0.722.0.7221024",
   "roblox_hash": "version-4b6315bf1f0a4dbb",
   "changelog": [
-    "Release"
+    "Updated to version-4b6315bf1f0a4dbb",
+    "Flight being fixed next roblox update!"
   ]
 }
